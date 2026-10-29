@@ -35,7 +35,7 @@ O repositório deve conter um arquivo `README.md` com as seguintes seções:
 
 ## Submissão
 
-A entrega deve ser feita pelo Moodle, com os cinco links a seguir:
+A entrega deve ser feita pelo Moodle, com os quatro links a seguir:
 
 - Sistema em produção: endereço público da aplicação publicada, em funcionamento.
 - Repositório no GitHub: link do repositório com o código-fonte do projeto.
